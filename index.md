@@ -1,82 +1,13 @@
-### 个人简历
-#### 袁成智 
-男 | 24岁 | 本科 | 南京 | 17366321015 | chengzhi.yuan@qq.com
-
-#### 求职意向 
-工作岗位 | 工作地点 |  期望薪资  
--|-|-
-WEB前端开发/H5页面开发/小程序开发/小游戏开发  | 南京/杭州 | 8 - 10K |
+# It works! ;-)
 
 
-#### 个人技能
-##### Top5
-HTML/HTML5 | CSS/CSS3 | JS/JQuery | 微信小程序/微信小游戏 | CocosCreator 
-:-:|:-:|:-:|:-:|:-:
-熟练（90%）| 熟练（90%）| 熟练（90%）| 熟练（90% | 熟练（90%）
+## Section 1
 
-##### Others
-Bootstarp | VueJS | ReactJS | AngularJS | PHP | Java | MySQL 
-:-:|:-:|:-:|:-:|:-:|:-:|:-:
-熟练（90%）| 熟练（90%）| 熟练（90%）| 熟练（90%）| 熟练（90%）| 熟练（90%）| 熟练（90%）
-
-#### 个人经历
-##### `2014.9-2018.7（教育经历）`
- 安徽合肥 巢湖学院（二本） 物联网专业
- 主要课程：
- C语音程序设计、C++、Java、数据库、JavaWeb前端技术、数据结构、单片机原理与应用、电路分析、模拟电子技术、RFID
-
-校内职务：
- 班级生活委员：负责班级团建活动规划、活动所需物品采购、班费管理等；另外配合学生会生活部组织一些活动；
- 心理协会副会长：负责社团人员的招新、社团活动的申报、展台的管理以及组织一年一届的手语操比赛；
- 
- 获得荣誉
- 校级二等奖学金（2015-2016学期）、校级二等奖学金（2016-2017学期）
-
-##### `2017.07-2017.08（实习经历）`
-昆山杰普软件公司(校企合作)
-
-系统的学习和巩固了Java基础知识，学习JDBC编程和MySQL数据库的应用技术；以项目小组的形式开发了学生管理系统，该系统包括学生新增、删除、列表展示和信息修改的功能，系统使用JavaBean+JDBC+Servlet+JSP的技术实现；数据存储在MySQL；这段经历提高了我的项目实战能力和团队组织、沟通、协作能力；
-
-##### `2017.09-2017.11（实习经历）`
-合肥秉文网络科技有限公司   WEB前端开发工程师（实习）
-
-协助软件开发工程师进行项目的前期准备工作和一些网页的维护工作，跟着项目团队一起完成任务。这段实习的经历使我的技术更加扎实，也让我接触到更多的前端技术。
-
-##### `2017.11-2018.05（培训经历）`
-江苏南京 达内科技 前端开发工程师培训
-
-第一阶段：
-
-学习了MySQL、PHP、HTML、CSS、JavaScript等基础技术和Ajax技术，基于这些知识进行了静态页面的制作和服务后台的开发，并且用Ajax异步传输数据的技术来获取数据库的数据，实现前后端的交互；
-
-第二阶段：
-
-学习了JS高级语法以及DOM、BOM、JQuery函数库，并且学习了HTML5、CSS3以及CSS框架BootStarp和后台开发语言NodeJS；在这些知识的基础上，理解面向对象、作用域、闭包、原型链等思想，并且进行了仿学子商城官网的联系；经过这一阶段的学习，我掌握了HTML5的新特性，以及响应式网页的开发方式；
-
-第三阶段：
-
-主要学习VueJS、ReactJS、AngularJS框架和微信小程序技术。这一阶段的学习是我理解了模块化开发的思想，对于单页面应用有了一定的了解，并且对于移动端开发和微信小程序开发有了一定的了解。
-
-##### `2018.06-2019.04（工作经历）`
-南京乐萌网络科技有限公司  前端开发工程师
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
 
 
-#### 项目经验
-##### 小游戏项目
->体重大作战
+## Section 2
 
-游戏引擎：cocos creator
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
 
-服务端：java
-
-客户端：javaScript
-
-通信技术：websocket
-
-发布版本：微信小游戏
-
-具体负责模块：负责与后台对接接口，调试接口，通过websocket技术实现玩家实时通信，实现玩家匹配，创建房间，断线重连，退出房间以及房间内的通信进行对战操作。调通所有接口以及通信，使用dragonbons实现游戏人物操作动画功能，导入cocos Creator，实现碰撞检测以及换装功能，使用微信云开发数据库存储玩家相关信息，通过微信提供的接口调用用户数据。最后实现游戏首页，游戏结束页UI展示，以及具体功能实现。主要功能包含：签到，抽奖，购买角色，任务系统，再次约战等功能。
-
-##### 小程序项目
-
-##### H5页面项目
+Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
