@@ -1,64 +1,55 @@
-<!--
-  -- Name of your wiki
-  -- Do NOT remove the leading `#` character.
-  -->
 
-# 如墓
-
-
-<!--
-  -- Default theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
-  -->
+# YuanHz
 
 [gimmick:theme](spacelab)
 
-
-<!--
-  -- Navigation
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
-
-
-<!-- A more complex navigation example: ----------------------------------------
----------------------------------------------------------------------------- -->
-
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+[基础平台]()
+  * # 技术框架
+  * [通用项目开发框架](pages/subitem1.md)
+  * [持续集成发布平台](pages/subitem2.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # 公共服务
+  * [统一缓存服务](pages/subitem3.md)
+  * [统一文件服务](pages/subitem3.md)
+  * [统一消息服务](pages/subitem3.md)
+  * [统一配置服务](pages/subitem3.md)
+
+[数据中台]()
+  * # 数据仓库
+  * [元数据](pages/subitem1.md)
+  * [指标体系](pages/subitem2.md)
   - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # 数据质量(pages/subitem3.md)
+  - - - -
+  * # 数据服务(pages/subitem3.md)
+  - - - -
+  * # 数据产品
+  * [用户画像](pages/subitem3.md)
+  * [智能推荐](pages/subitem3.md)
 
-[Menu Item 2](pages/item2.md)
+[业务中台](pages/item3.md)
+  * # 会员中心
+  * [会员生命周期](pages/subitem1.md)
+  * [会员精准营销](pages/subitem2.md)
+  * [会员社群运营](pages/subitem2.md)
+  - - - -
+  * # 订单中心
+  * [订单多租户](pages/subitem3.md)
+  - - - -
+  * # 支付金融
+  * [支付场景](pages/subitem3.md)
+  * [支付渠道](pages/subitem3.md)
+  - - - -
+  * # 营销活动
+  * [拼团](pages/subitem3.md)
+  * [锦鲤](pages/subitem3.md)
 
-[Menu Item 3](pages/item3.md)
+[敏捷前端](pages/item3.md)
+  * # WEB(pages/subitem3.md)
+  - - - -
+  * # H5(pages/subitem3.md)
+  - - - -
+  * # 小程序(pages/subitem3.md)
+  - - - -
+  * # 小游戏(pages/subitem3.md)
 
-
-
-<!--
-  -- Change the Language
-  -- Could be useful when there's more than one language wiki.
-  -->
-
-<!--
-[Change the Language]()
-
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
-
-<!--
-  -- Let the user choose a theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
-
-<!--
-[gimmick:themechooser](Choose theme)
--->
