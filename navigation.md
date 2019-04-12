@@ -21,7 +21,11 @@
   * [统一权限服务](pages/subitem3.md)
 
 [数据中台]()
-
+  * ## 技术框架
+  * [存储框架](pages/subitem1.md)
+  * [计算框架](pages/subitem2.md)
+  * [图表框架](pages/subitem2.md)
+  - - - -
   * ## 数据仓库
   * [数据体系](pages/subitem1.md)
   * [指标体系](pages/subitem2.md)
@@ -39,6 +43,10 @@
   * ## 数据产品
   * [用户画像](pages/subitem3.md)
   * [智能推荐](pages/subitem3.md)
+  - - - -
+  * ## 数据分析
+  * [交互查询](pages/subitem3.md)
+  * [多维分析](pages/subitem3.md)
 
 [业务中台]()
 
@@ -85,7 +93,8 @@
 
   * ## 内容运营
   * [文案](pages/subitem1.md)
-  * [短视频](pages/subitem1.md)
+  * [音频](pages/subitem1.md)
+  * [视频](pages/subitem1.md)
   - - - -
   * ## 活动运营
   * [活动策划](pages/subitem1.md)
