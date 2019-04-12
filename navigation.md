@@ -122,7 +122,8 @@
   * ## 增长工具
   * [用户分群工具](pages/default.md)  
  
- [程序人生](pages/default.md)
+ [程序人生]()
+ 
   * ## 职场
   * [领导力](pages/领导力.md)
   - - - -
@@ -131,5 +132,3 @@
   - - - -
   * ## 思想
   * [儒释道](pages/default.md)
- 
- [关于我](pages/default.md)  
